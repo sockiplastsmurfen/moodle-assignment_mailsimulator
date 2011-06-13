@@ -2,6 +2,7 @@ The Mail Simulator Assignment simulates an email inbox, which can be useful for 
 It has a built-in rating assistance based on [[#weight|weights]] making it easy to grade large assignments.
 It can perform random distribution of alternative emails (student tasks) which makes cheating harder.
 Thoughts and questions about the module can be sent to the following [http://moodle.org/mod/forum/discuss.php?d=177120 forum topic].
+Please report any bugs to the [http://tracker.moodle.org/browse/CONTRIB/component/11130 Bug Tracker].
 
 This project was developed by Thomas Alsén at the [http://dsv.su.se/en/ Department of Computer and Systems sciences]  within Stockholms University.
 
@@ -103,5 +104,6 @@ To create a nested conversation just click "Reply" or "Reply all" and then chose
 * [http://moodle.org/mod/forum/discuss.php?d=177120 Discussion]
 * [https://github.com/sockiplastsmurfen/moodle-assignment_mailsimulator/tree/MOODLE_19_STABLE Git Repository for Moodle 1.9]
 * [https://github.com/sockiplastsmurfen/moodle-assignment_mailsimulator/zipball/MOODLE_19_STABLE Download module for Moodle 1.9]
+* [http://tracker.moodle.org/browse/CONTRIB/component/11130 Bug Tracker Page] (Please report bugs here)
 
 [[Category:Contributed code]]

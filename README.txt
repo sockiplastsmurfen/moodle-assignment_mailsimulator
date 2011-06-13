@@ -101,7 +101,7 @@ To create a nested conversation just click "Reply" or "Reply all" and then chose
 ==See also==
 * [http://moodle.org/mod/data/view.php?d=13&rid=4866 Moodle Modules Posting] is a Modules and plugins database page that has download links and more information.
 * [http://moodle.org/mod/forum/discuss.php?d=177120 Discussion]
-* [https://github.com/sockiplastsmurfen/moodle-assignment_reflection/tree/MOODLE_19_STABLE Git Repository for Moodle 1.9]
-* [https://github.com/sockiplastsmurfen/moodle-assignment_reflection/zipball/MOODLE_19_STABLE Download module for Moodle 1.9]
+* [https://github.com/sockiplastsmurfen/moodle-assignment_mailsimulator/tree/MOODLE_19_STABLE Git Repository for Moodle 1.9]
+* [https://github.com/sockiplastsmurfen/moodle-assignment_mailsimulator/zipball/MOODLE_19_STABLE Download module for Moodle 1.9]
 
 [[Category:Contributed code]]
